@@ -2,8 +2,11 @@
 	path = web-workshop-haw-2024
 	url = https://github.com/s0h311/web-workshop-haw-2024
 [submodule "workshop-news-2024"]
-	path = workshop-news-2024
+	path = news-2024
 	url = https://github.com/s0h311/workshop-news-2024
 [submodule "workshop-reusable-components-api-and-layout-design"]
-	path = workshop-reusable-components-api-and-layout-design
+	path = reusable-components-api-and-layout-design
 	url = https://github.com/s0h311/workshop-reusable-components-api-and-layout-design
+[submodule "mcp-server"]
+	path = "workshop-mcp-server"
+	url = https://github.com/s0h311/workshop-mcp-server
