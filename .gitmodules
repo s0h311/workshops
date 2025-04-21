@@ -7,6 +7,6 @@
 [submodule "workshop-reusable-components-api-and-layout-design"]
 	path = reusable-components-api-and-layout-design
 	url = https://github.com/s0h311/workshop-reusable-components-api-and-layout-design
-[submodule "mcp-server"]
-	path = "workshop-mcp-server"
-	url = https://github.com/s0h311/workshop-mcp-server
+[submodule "workshop-mcp-server"]
+	path = workshop-mcp-server
+	url = https://github.com/s0h311/workshop-mcp-server.git
