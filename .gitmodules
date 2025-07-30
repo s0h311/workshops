@@ -10,9 +10,6 @@
 [submodule "workshop-mcp-server"]
 	path = workshop-mcp-server
 	url = https://github.com/s0h311/workshop-mcp-server.git
-[submodule "workshop-mcp-server-over-streamable-http"]
-	path = workshop-mcp-server-over-streamable-http
-	url = https://github.com/s0h311/workshop-mcp-server-over-streamable-http
 [submodule "workshop-mcp-client"]
 	path = workshop-mcp-client
 	url = https://github.com/s0h311/workshop-mcp-client.git
