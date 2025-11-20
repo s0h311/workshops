@@ -13,3 +13,6 @@
 [submodule "workshop-mcp-server-over-streamable-http"]
 	path = workshop-mcp-server-over-streamable-http
 	url = https://github.com/s0h311/workshop-mcp-server-over-streamable-http
+[submodule "workshop-server-setup-and-auto-deployment"]
+	path = workshop-server-setup-and-auto-deployment
+	url = https://github.com/s0h311/workshop-server-setup-and-auto-deployment
